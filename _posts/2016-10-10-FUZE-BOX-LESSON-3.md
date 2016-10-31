@@ -1,8 +1,6 @@
 ---
 title: FUZE BOX lesson 3
 layout: post
-source-id: 1hOeDCLXk9wRE_mgJKc__Qp1sUWg9YR4qlPO-VHhlik4
-published: true
 ---
 <table>
   <tr>
