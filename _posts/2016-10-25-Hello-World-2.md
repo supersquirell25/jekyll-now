@@ -1,6 +1,10 @@
 ---
 title: Monday 27 June 2016
 layout: post
+author: sam.shepherd
+permalink: https://supersquirell25.github.io
+source-id: 1B2usWe2YIyUz4DAhzWN-CbPkuy79GUzYugHXQ3Cvhwg
+published: true
 ---
 Monday, 27 June 2016
 
