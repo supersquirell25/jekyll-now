@@ -1,8 +1,6 @@
 ---
 title: Untitled document
 layout: post
-source-id: 1-isHMWPTck-Rdxg0U19dUt-Vitn_3CaK8aHTBLgvos4
-published: true
 ---
 THURSDAY 15 SEPTEMBER 2016
 
