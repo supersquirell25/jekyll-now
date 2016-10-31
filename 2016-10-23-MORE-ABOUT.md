@@ -1,8 +1,6 @@
 ---
-title: MORE ABOUT THE LESSON
+title: MORE ABOUT
 layout: post
-author: sam.shepherd
-permalink: /more-about-the-lesson/
 source-id: 1yAwGmtDXl_lsW4zYCIXciCcq9XLXTgwJ_fd52CJp1hc
 published: true
 ---
