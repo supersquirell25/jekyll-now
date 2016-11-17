@@ -1,5 +1,5 @@
 ---
-title: Copy of FUZE BOX lesson 6
+title: of FUZE BOX lesson 6
 layout: post
 source-id: 1eN275wp9aHcQ9HyX9OPQxzCkMFxQFSRXFdFLZkNCcBI
 published: true
