@@ -8,9 +8,9 @@ published: true
 <table>
   <tr>
     <td></td>
-    <td>PYTHON 7</td>
+    <td>DIFFERENT LESSON</td>
     <td></td>
-    <td>19/06/17</td>
+    <td>26/06/17</td>
   </tr>
 </table>
 
@@ -18,15 +18,15 @@ published: true
 <table>
   <tr>
     <td></td>
-    <td>Seventh  lesson on PYTHON (24%)</td>
+    <td>NO starting point!</td>
   </tr>
   <tr>
     <td></td>
-    <td>Finish another 5%</td>
+    <td>Improve blog etc</td>
   </tr>
   <tr>
     <td></td>
-    <td>I only just managed to get my goal this lesson reaching 29%</td>
+    <td>My blog is now much better</td>
   </tr>
 </table>
 
@@ -39,19 +39,19 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I think that i made alright progress but could have done much better if i had spent more time on codecademy and not trying to improve my github blog or chatting to people.</td>
+    <td>I think that i made alright progress but could have done much better if i had spent more time improving my github blog instead of chatting to people.</td>
   </tr>
   <tr>
     <td></td>
   </tr>
   <tr>
-    <td>I think that i could have done at least another 2-3% if i had been trying for the whole lesson but as i said i got distracted and i therefore did not do as much work as i could have done due to my github blog, nonetheless i do think that i had a good lesson with some harder questions. Also at the start of the lesson my computer bugged out a little bit. </td>
+    <td>I think that i could have made at least another few improvements if i had been trying for the whole lesson but as i said i got distracted and i therefore did not do as much work as i could have done due to my github blog, nonetheless i do think that i had a good lesson. Also at the start of the lesson my computer bugged out a little bit. </td>
   </tr>
   <tr>
     <td></td>
   </tr>
   <tr>
-    <td>I think the two main things holding me back this lesson were me losing concentration and me chatting to other people too often.</td>
+    <td>I think the two main things holding me back this lesson were me losing concentration and me chatting to other people too often instead of focusing on my blog...</td>
   </tr>
 </table>
 
