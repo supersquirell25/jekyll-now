@@ -1,5 +1,5 @@
 ---
-title: Copy of year 9 IT lesson 2
+title: year 9 IT lesson 2
 layout: post
 author: sam.shepherd
 source-id: 153uhxOZq6U4THtI3NEADpWQeNwLMQWAgd2rJ1oTjxaQ
