@@ -1,5 +1,5 @@
 ---
-title: year 9 IT lesson 6
+title: year 9 IT lesson 5
 layout: post
 author: sam.shepherd
 source-id: 1stIVwKTLm-_JnFUIzUMTJWtWitE4L5iYu-fwA3aj8uo
@@ -8,9 +8,9 @@ published: true
 <table>
   <tr>
     <td></td>
-    <td>SPREADSHEETS 6</td>
+    <td>SPREADSHEETS 5</td>
     <td></td>
-    <td>6/11/17</td>
+    <td>11/10/17</td>
   </tr>
 </table>
 
