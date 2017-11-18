@@ -1,5 +1,5 @@
 ---
-title: year 9 IT lesson 5
+title: 6year 9 IT lesson 5
 layout: post
 author: sam.shepherd
 source-id: 1stIVwKTLm-_JnFUIzUMTJWtWitE4L5iYu-fwA3aj8uo
@@ -8,9 +8,9 @@ published: true
 <table>
   <tr>
     <td></td>
-    <td>SPREADSHEETS 5</td>
+    <td>SPREADSHEETS 6</td>
     <td></td>
-    <td>9/10/17</td>
+    <td>6/11/17</td>
   </tr>
 </table>
 
@@ -55,13 +55,5 @@ published: true
     <td>I could have done better had my discount prices not have bugged out at the end. And Next time I will try to finish even more and try to retain the knowledge that I have learned!</td>
   </tr>
 </table>
-
-<br>
-<hr>
-<br>
-
-<h3>Spreadsheets Work</h3>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSZIA49k5ryBB85nU2yMDVfUqWywkCv9IzXZS4cSqb1dsM-nsYbOWJ00SSRu3AJnCBqnbivJFATxi0W/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
